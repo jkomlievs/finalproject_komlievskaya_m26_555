@@ -61,5 +61,19 @@
     "password_hash": "fdf688fb0cf36393fe39706d6afd3b501e598165551c5c549d8952726a8ea601",
     "salt": "e00e8348c48d7691",
     "created_at": "2026-11-02T19:54:01.711107"
+  },
+  {
+    "user_id": "user_10",
+    "username": "Yana23",
+    "password_hash": "d53e5808d1a54da3a349cadbb4f9ed2febcc99f78e99619e06fe4f0c5a6dc06f",
+    "salt": "7166461ea2820e12",
+    "created_at": "2026-11-02T20:19:22.486717"
+  },
+  {
+    "user_id": "user_11",
+    "username": "Yana",
+    "password_hash": "b7a5e52bed3f0081dd34dcf2c775be97ceb7ca6cd09cd83a0bfcf3a4beaad0f3",
+    "salt": "952b9a33fb0fe254",
+    "created_at": "2026-11-02T20:22:02.712764"
   }
 ]

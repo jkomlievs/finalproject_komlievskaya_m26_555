@@ -53,3 +53,43 @@
 2026-11-02 19:54:35 | INFO     | valutatrade_hub | sell выполнен успешно за 1.53 мс
 2026-11-02 19:54:49 | INFO     | valutatrade_hub | Вызов get_rate_info(args=('BTC', 'USD'), kwargs={})
 2026-11-02 19:54:49 | INFO     | valutatrade_hub | get_rate_info выполнен успешно за 1.34 мс
+2026-11-02 20:03:01 | INFO     | valutatrade_hub | Вызов login(args=('yaha', '1234'), kwargs={})
+2026-11-02 20:03:01 | ERROR    | valutatrade_hub | login завершился ошибкой за 1.41 мс: Неверное имя пользователя или пароль
+2026-11-02 20:03:13 | INFO     | valutatrade_hub | Вызов login(args=('1', '1'), kwargs={})
+2026-11-02 20:03:13 | ERROR    | valutatrade_hub | login завершился ошибкой за 0.55 мс: Неверное имя пользователя или пароль
+2026-11-02 20:08:10 | INFO     | valutatrade_hub | Вызов login(args=('yana', '1234'), kwargs={})
+2026-11-02 20:08:10 | INFO     | valutatrade_hub | login выполнен успешно за 2.02 мс
+2026-11-02 20:08:22 | INFO     | valutatrade_hub | Вызов sell(args=('BTC', 0.1), kwargs={})
+2026-11-02 20:08:22 | INFO     | valutatrade_hub | sell выполнен успешно за 5.41 мс
+2026-11-02 20:08:42 | INFO     | valutatrade_hub | Вызов buy(args=('BTC', 0.1), kwargs={})
+2026-11-02 20:08:42 | INFO     | valutatrade_hub | buy выполнен успешно за 1.42 мс
+2026-11-02 20:08:49 | INFO     | valutatrade_hub | Вызов sell(args=('BTC', 0.3), kwargs={})
+2026-11-02 20:08:49 | ERROR    | valutatrade_hub | sell завершился ошибкой за 0.67 мс: Недостаточно средств: доступно 0.1000 BTC, требуется 0.3000 BTC
+2026-11-02 20:19:22 | INFO     | valutatrade_hub | Вызов register(args=('Yana', '1234'), kwargs={})
+2026-11-02 20:19:22 | INFO     | valutatrade_hub | register выполнен успешно за 6.80 мс
+2026-11-02 20:19:32 | INFO     | valutatrade_hub | Вызов login(args=('Yana', '1234'), kwargs={})
+2026-11-02 20:19:32 | INFO     | valutatrade_hub | login выполнен успешно за 0.65 мс
+2026-11-02 20:19:39 | INFO     | valutatrade_hub | Вызов buy(args=('BTC', 0.1), kwargs={})
+2026-11-02 20:19:39 | INFO     | valutatrade_hub | buy выполнен успешно за 4.16 мс
+2026-11-02 20:19:56 | INFO     | valutatrade_hub | Вызов sell(args=('BTC', 0.1), kwargs={})
+2026-11-02 20:19:56 | INFO     | valutatrade_hub | sell выполнен успешно за 1.37 мс
+2026-11-02 20:20:07 | INFO     | valutatrade_hub | Вызов get_rate_info(args=('BTC', 'USD'), kwargs={})
+2026-11-02 20:20:07 | INFO     | valutatrade_hub | get_rate_info выполнен успешно за 1.19 мс
+2026-11-02 20:20:27 | INFO     | valutatrade_hub | Вызов buy(args=('BTC', 0.1), kwargs={})
+2026-11-02 20:20:27 | INFO     | valutatrade_hub | buy выполнен успешно за 1.45 мс
+2026-11-02 20:20:39 | INFO     | valutatrade_hub | Вызов sell(args=('BTC', 0.2), kwargs={})
+2026-11-02 20:20:39 | ERROR    | valutatrade_hub | sell завершился ошибкой за 3.29 мс: Недостаточно средств: доступно 0.1000 BTC, требуется 0.2000 BTC
+2026-11-02 20:22:02 | INFO     | valutatrade_hub | Вызов register(args=('Yana', '1234'), kwargs={})
+2026-11-02 20:22:02 | INFO     | valutatrade_hub | register выполнен успешно за 2.13 мс
+2026-11-02 20:22:09 | INFO     | valutatrade_hub | Вызов login(args=('Yana', '1234'), kwargs={})
+2026-11-02 20:22:09 | INFO     | valutatrade_hub | login выполнен успешно за 0.62 мс
+2026-11-02 20:22:17 | INFO     | valutatrade_hub | Вызов buy(args=('BTC', 0.1), kwargs={})
+2026-11-02 20:22:17 | INFO     | valutatrade_hub | buy выполнен успешно за 1.39 мс
+2026-11-02 20:22:34 | INFO     | valutatrade_hub | Вызов sell(args=('BTC', 0.1), kwargs={})
+2026-11-02 20:22:34 | INFO     | valutatrade_hub | sell выполнен успешно за 1.40 мс
+2026-11-02 20:22:49 | INFO     | valutatrade_hub | Вызов get_rate_info(args=('BTC', 'USD'), kwargs={})
+2026-11-02 20:22:49 | INFO     | valutatrade_hub | get_rate_info выполнен успешно за 0.66 мс
+2026-11-02 20:23:06 | INFO     | valutatrade_hub | Вызов buy(args=('BTC', 0.1), kwargs={})
+2026-11-02 20:23:06 | INFO     | valutatrade_hub | buy выполнен успешно за 1.30 мс
+2026-11-02 20:23:14 | INFO     | valutatrade_hub | Вызов sell(args=('BTC', 0.2), kwargs={})
+2026-11-02 20:23:14 | ERROR    | valutatrade_hub | sell завершился ошибкой за 0.90 мс: Недостаточно средств: доступно 0.1000 BTC, требуется 0.2000 BTC

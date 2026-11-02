@@ -18,7 +18,6 @@ bash
 uv sync
 uv run python main.py
 
-Для работы с фиатными валютами нужен API-ключ ExchangeRate-API. 
 
 ## Пример использования
 
@@ -79,8 +78,37 @@ data/ # users.json, portfolios.json, rates.json, exchange_rates.json
 
 logs/ # логи действий пользователя и парсера
 
+## Настройка Parser Service
+
+Для получения курсов фиатных валют через ExchangeRate-API нужен бесплатный
+API-ключ (необходимо зарегистрироваться на https://www.exchangerate-api.com/).
+
+Создать файл `.env` в корне проекта:
+
+
+EXCHANGERATE_API_KEY=твой_ключ
+
+
+Для получения курсов криптовалют (CoinGecko) ключ не требуется — API открытый.
+
+Запустить обновление курсов командой:
+
+> update-rates
+
+Update successful. Total rates updated: 6.
+
+
+## Кэширование курсов и TTL
+
+Курсы валют хранятся локально в `data/rates.json` — это "снимок" последних
+актуальных значений, полученных от CoinGecko и ExchangeRate-API.
+У кэша есть срок годности (TTL), заданный в настройках: если курс устарел,
+приложение предупреждает об этом и предлагает выполнить `update-rates`
+для обновления данных. История всех измерений сохраняется в
+`data/exchange_rates.json` для анализа динамики.
+
 
 ## Демонстрация (asciinema)
 
-https://asciinema.org/a/4bHakLOZiRn87ucH
+https://asciinema.org/a/fOpBWtodUsmg7CST
 
