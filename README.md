@@ -79,3 +79,8 @@ data/ # users.json, portfolios.json, rates.json, exchange_rates.json
 
 logs/ # логи действий пользователя и парсера
 
+
+## Демонстрация (asciinema)
+
+https://asciinema.org/a/4bHakLOZiRn87ucH
+

@@ -2,7 +2,7 @@
   "pairs": {
     "BTC_USD": {
       "rate": 59300.0,
-      "updated_at": "2026-11-02T19:33:28.738836",
+      "updated_at": "2026-11-02T19:54:16.705416",
       "source": "fallback"
     },
     "USD_USD": {
@@ -12,7 +12,7 @@
     },
     "USD_BTC": {
       "rate": 1.6863406408094435e-05,
-      "updated_at": "2026-11-02T16:56:53.860421",
+      "updated_at": "2026-11-02T19:54:49.490727",
       "source": "fallback"
     },
     "GBP_USD": {
@@ -31,5 +31,5 @@
       "source": "fallback"
     }
   },
-  "last_refresh": "2026-11-02T19:33:28.738836"
+  "last_refresh": "2026-11-02T19:54:49.490727"
 }

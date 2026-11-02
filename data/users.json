@@ -54,5 +54,12 @@
     "password_hash": "efd7dc56d20e40eaf2952ce340ff47b9f419f8dc584ae1b0467d24c665f59165",
     "salt": "a1da45b99c0157ee",
     "created_at": "2026-11-02T19:34:07.837167"
+  },
+  {
+    "user_id": "user_9",
+    "username": "yana",
+    "password_hash": "fdf688fb0cf36393fe39706d6afd3b501e598165551c5c549d8952726a8ea601",
+    "salt": "e00e8348c48d7691",
+    "created_at": "2026-11-02T19:54:01.711107"
   }
 ]

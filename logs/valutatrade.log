@@ -43,3 +43,13 @@
 2026-11-02 19:34:29 | INFO     | valutatrade_hub | buy выполнен успешно за 1.52 мс
 2026-11-02 19:34:36 | INFO     | valutatrade_hub | Вызов sell(args=('BTC', 0.1), kwargs={})
 2026-11-02 19:34:36 | INFO     | valutatrade_hub | sell выполнен успешно за 1.40 мс
+2026-11-02 19:54:01 | INFO     | valutatrade_hub | Вызов register(args=('yana', '1234'), kwargs={})
+2026-11-02 19:54:01 | INFO     | valutatrade_hub | register выполнен успешно за 6.96 мс
+2026-11-02 19:54:08 | INFO     | valutatrade_hub | Вызов login(args=('yana', '1234'), kwargs={})
+2026-11-02 19:54:08 | INFO     | valutatrade_hub | login выполнен успешно за 0.70 мс
+2026-11-02 19:54:16 | INFO     | valutatrade_hub | Вызов buy(args=('BTC', 0.1), kwargs={})
+2026-11-02 19:54:16 | INFO     | valutatrade_hub | buy выполнен успешно за 6.27 мс
+2026-11-02 19:54:35 | INFO     | valutatrade_hub | Вызов sell(args=('BTC', 0.1), kwargs={})
+2026-11-02 19:54:35 | INFO     | valutatrade_hub | sell выполнен успешно за 1.53 мс
+2026-11-02 19:54:49 | INFO     | valutatrade_hub | Вызов get_rate_info(args=('BTC', 'USD'), kwargs={})
+2026-11-02 19:54:49 | INFO     | valutatrade_hub | get_rate_info выполнен успешно за 1.34 мс
