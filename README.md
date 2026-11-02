@@ -22,19 +22,23 @@ uv run python main.py
 
 ## Пример использования
 
-register Yana 1234
+>register Yana 1234
 
 Пользователь 'Yana' успешно зарегистрирован.
 
-login Yana 1234
+>login Yana 1234
 
 Добро пожаловать, Yana!
 
-buy BTC 0.1
+>buy BTC 0.1
 
 Покупка выполнена: 0.1000 BTC по курсу 59300.00 USD/BTC
 
-show-portfolio
+>sell BTC 0.1
+
+Продажа выполнена: 0.1000 BTC по курсу 59300.00 USD/BTC
+
+>show-portfolio
 
 Портфель пользователя 'Yana' (база: USD):
 
@@ -42,9 +46,13 @@ BTC: 0.1000
 
 ИТОГО: 5,930.00 USD
 
-logout
+>logout
 
 Пользователь 'Yana' вышел из системы.
+
+>exit
+
+До встречи!
 
 ## Модель расчётов при покупке/продаже валюты
 
