@@ -35,29 +35,53 @@
     "wallets": {
       "BTC": {
         "currency_code": "BTC",
-        "balance": 0.1
+        "balance": 0.2
       },
       "GBP": {
         "currency_code": "GBP",
         "balance": 50.0
+      },
+      "SOL": {
+        "currency_code": "SOL",
+        "balance": 0.2
       }
     }
   },
   {
     "user_id": "user_5",
-    "wallets": {}
+    "wallets": {
+      "BTC": {
+        "currency_code": "BTC",
+        "balance": 0.1
+      }
+    }
   },
   {
     "user_id": "user_6",
-    "wallets": {}
+    "wallets": {
+      "BTC": {
+        "currency_code": "BTC",
+        "balance": 0.0
+      }
+    }
   },
   {
     "user_id": "user_7",
-    "wallets": {}
+    "wallets": {
+      "BTC": {
+        "currency_code": "BTC",
+        "balance": 0.0
+      }
+    }
   },
   {
     "user_id": "user_8",
-    "wallets": {}
+    "wallets": {
+      "BTC": {
+        "currency_code": "BTC",
+        "balance": 0.0
+      }
+    }
   },
   {
     "user_id": "user_9",
@@ -112,5 +136,25 @@
         "balance": 0.0
       }
     }
+  },
+  {
+    "user_id": "user_4",
+    "wallets": {}
+  },
+  {
+    "user_id": "user_5",
+    "wallets": {}
+  },
+  {
+    "user_id": "user_6",
+    "wallets": {}
+  },
+  {
+    "user_id": "user_7",
+    "wallets": {}
+  },
+  {
+    "user_id": "user_8",
+    "wallets": {}
   }
 ]

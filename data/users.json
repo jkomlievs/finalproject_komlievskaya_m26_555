@@ -19,5 +19,40 @@
     "password_hash": "2809f019e62171d602ab6227e56980db5265dfd2c6e3639576a6d64e46a356ab",
     "salt": "4af8d28bd7b04f2d",
     "created_at": "2026-11-02T11:52:23.045380"
+  },
+  {
+    "user_id": "user_4",
+    "username": "anna",
+    "password_hash": "5f3276288b616c44731e1ca592134e0e73faa24be7ea18093fff4a3d6afbf2c4",
+    "salt": "ef53c71f3e307e59",
+    "created_at": "2026-11-02T19:27:13.906024"
+  },
+  {
+    "user_id": "user_5",
+    "username": "elena",
+    "password_hash": "57ec1ad606ba81620e827f74bee6c505b4ecef2aa8b683ab67c03437fd2bcd57",
+    "salt": "e626a2d68bec19ea",
+    "created_at": "2026-11-02T19:31:07.140739"
+  },
+  {
+    "user_id": "user_6",
+    "username": "yana1",
+    "password_hash": "2bb80207e7e4674086e934585eba1eacd19482234074bd3c12962e681179e32c",
+    "salt": "de9abcfcd2981394",
+    "created_at": "2026-11-02T19:31:43.921017"
+  },
+  {
+    "user_id": "user_7",
+    "username": "andrei",
+    "password_hash": "0c9d1154d72d655d4bcc66cb0b1d3836e4e1267121a6abbfd6d4c468811e8bcc",
+    "salt": "4f89e87a89f91f30",
+    "created_at": "2026-11-02T19:32:56.109973"
+  },
+  {
+    "user_id": "user_8",
+    "username": "maria27",
+    "password_hash": "efd7dc56d20e40eaf2952ce340ff47b9f419f8dc584ae1b0467d24c665f59165",
+    "salt": "a1da45b99c0157ee",
+    "created_at": "2026-11-02T19:34:07.837167"
   }
 ]

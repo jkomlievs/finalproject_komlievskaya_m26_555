@@ -1,0 +1,45 @@
+2026-11-02 19:27:13 | INFO     | valutatrade_hub | Вызов register(args=('anna', '1234'), kwargs={})
+2026-11-02 19:27:13 | INFO     | valutatrade_hub | register выполнен успешно за 2.49 мс
+2026-11-02 19:27:20 | INFO     | valutatrade_hub | Вызов login(args=('anna', '1234'), kwargs={})
+2026-11-02 19:27:20 | INFO     | valutatrade_hub | login выполнен успешно за 0.68 мс
+2026-11-02 19:27:28 | INFO     | valutatrade_hub | Вызов buy(args=('BTC', 0.1), kwargs={})
+2026-11-02 19:27:28 | INFO     | valutatrade_hub | buy выполнен успешно за 3.88 мс
+2026-11-02 19:28:50 | INFO     | valutatrade_hub | Вызов buy(args=('Ы\udcd0SOL', 0.1), kwargs={})
+2026-11-02 19:29:45 | INFO     | valutatrade_hub | Вызов buy(args=('SOL', 0.1), kwargs={})
+2026-11-02 19:29:45 | INFO     | valutatrade_hub | buy выполнен успешно за 4.76 мс
+2026-11-02 19:30:19 | INFO     | valutatrade_hub | Вызов buy(args=('SOL', 0.1), kwargs={})
+2026-11-02 19:30:19 | INFO     | valutatrade_hub | buy выполнен успешно за 1.21 мс
+2026-11-02 19:31:07 | INFO     | valutatrade_hub | Вызов register(args=('elena', '1234'), kwargs={})
+2026-11-02 19:31:07 | INFO     | valutatrade_hub | register выполнен успешно за 2.31 мс
+2026-11-02 19:31:13 | INFO     | valutatrade_hub | Вызов login(args=('elena', '1234'), kwargs={})
+2026-11-02 19:31:13 | INFO     | valutatrade_hub | login выполнен успешно за 0.66 мс
+2026-11-02 19:31:21 | INFO     | valutatrade_hub | Вызов buy(args=('BTC', 0.1), kwargs={})
+2026-11-02 19:31:21 | INFO     | valutatrade_hub | buy выполнен успешно за 1.76 мс
+2026-11-02 19:31:43 | INFO     | valutatrade_hub | Вызов register(args=('yana1', '1234'), kwargs={})
+2026-11-02 19:31:43 | INFO     | valutatrade_hub | register выполнен успешно за 4.17 мс
+2026-11-02 19:31:52 | INFO     | valutatrade_hub | Вызов buy(args=('BTC', 0.2), kwargs={})
+2026-11-02 19:31:52 | ERROR    | valutatrade_hub | buy завершился ошибкой за 0.24 мс: Требуется авторизация. Выполните 'login'.
+2026-11-02 19:32:00 | INFO     | valutatrade_hub | Вызов login(args=('yana1', '1234'), kwargs={})
+2026-11-02 19:32:00 | INFO     | valutatrade_hub | login выполнен успешно за 3.11 мс
+2026-11-02 19:32:09 | INFO     | valutatrade_hub | Вызов buy(args=('BTC', 0.5), kwargs={})
+2026-11-02 19:32:09 | INFO     | valutatrade_hub | buy выполнен успешно за 5.40 мс
+2026-11-02 19:32:27 | INFO     | valutatrade_hub | Вызов sell(args=('BTC', 0.5), kwargs={})
+2026-11-02 19:32:27 | INFO     | valutatrade_hub | sell выполнен успешно за 4.04 мс
+2026-11-02 19:32:56 | INFO     | valutatrade_hub | Вызов register(args=('andrei', '1234'), kwargs={})
+2026-11-02 19:32:56 | INFO     | valutatrade_hub | register выполнен успешно за 4.28 мс
+2026-11-02 19:33:09 | INFO     | valutatrade_hub | Вызов buy(args=('BTC', 0.6), kwargs={})
+2026-11-02 19:33:09 | ERROR    | valutatrade_hub | buy завершился ошибкой за 0.27 мс: Требуется авторизация. Выполните 'login'.
+2026-11-02 19:33:19 | INFO     | valutatrade_hub | Вызов login(args=('andrei', '1234'), kwargs={})
+2026-11-02 19:33:19 | INFO     | valutatrade_hub | login выполнен успешно за 0.66 мс
+2026-11-02 19:33:28 | INFO     | valutatrade_hub | Вызов buy(args=('BTC', 0.6), kwargs={})
+2026-11-02 19:33:28 | INFO     | valutatrade_hub | buy выполнен успешно за 3.89 мс
+2026-11-02 19:33:36 | INFO     | valutatrade_hub | Вызов sell(args=('BTC', 0.6), kwargs={})
+2026-11-02 19:33:36 | INFO     | valutatrade_hub | sell выполнен успешно за 1.32 мс
+2026-11-02 19:34:07 | INFO     | valutatrade_hub | Вызов register(args=('maria27', '1234'), kwargs={})
+2026-11-02 19:34:07 | INFO     | valutatrade_hub | register выполнен успешно за 2.19 мс
+2026-11-02 19:34:17 | INFO     | valutatrade_hub | Вызов login(args=('maria27', '1234'), kwargs={})
+2026-11-02 19:34:17 | INFO     | valutatrade_hub | login выполнен успешно за 0.68 мс
+2026-11-02 19:34:29 | INFO     | valutatrade_hub | Вызов buy(args=('BTC', 0.1), kwargs={})
+2026-11-02 19:34:29 | INFO     | valutatrade_hub | buy выполнен успешно за 1.52 мс
+2026-11-02 19:34:36 | INFO     | valutatrade_hub | Вызов sell(args=('BTC', 0.1), kwargs={})
+2026-11-02 19:34:36 | INFO     | valutatrade_hub | sell выполнен успешно за 1.40 мс

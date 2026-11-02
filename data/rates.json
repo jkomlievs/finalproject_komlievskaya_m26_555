@@ -2,7 +2,7 @@
   "pairs": {
     "BTC_USD": {
       "rate": 59300.0,
-      "updated_at": "2026-11-02T16:56:23.999148",
+      "updated_at": "2026-11-02T19:33:28.738836",
       "source": "fallback"
     },
     "USD_USD": {
@@ -26,10 +26,10 @@
       "source": "CoinGecko"
     },
     "SOL_USD": {
-      "rate": 93.89,
-      "updated_at": "2026-11-02T11:29:41.678154+00:00",
-      "source": "CoinGecko"
+      "rate": 145.0,
+      "updated_at": "2026-11-02T19:29:45.178054",
+      "source": "fallback"
     }
   },
-  "last_refresh": "2026-11-02T16:56:53.860421"
+  "last_refresh": "2026-11-02T19:33:28.738836"
 }
