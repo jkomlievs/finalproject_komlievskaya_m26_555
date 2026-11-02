@@ -1,0 +1,9 @@
+.venv/
+venv/
+env/
+.uv/
+uv.lock
+.env
+.env.*
+.DS_Store
+Thumbs.db

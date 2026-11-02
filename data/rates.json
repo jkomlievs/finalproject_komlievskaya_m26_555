@@ -1,0 +1,35 @@
+{
+  "pairs": {
+    "BTC_USD": {
+      "rate": 59300.0,
+      "updated_at": "2026-11-02T16:56:23.999148",
+      "source": "fallback"
+    },
+    "USD_USD": {
+      "rate": 1.0,
+      "updated_at": "2026-10-28T03:23:21.456310",
+      "source": "fallback"
+    },
+    "USD_BTC": {
+      "rate": 1.6863406408094435e-05,
+      "updated_at": "2026-11-02T16:56:53.860421",
+      "source": "fallback"
+    },
+    "GBP_USD": {
+      "rate": 1.27,
+      "updated_at": "2026-10-31T01:59:21.487441",
+      "source": "fallback"
+    },
+    "ETH_USD": {
+      "rate": 2283.81,
+      "updated_at": "2026-11-02T11:29:41.678154+00:00",
+      "source": "CoinGecko"
+    },
+    "SOL_USD": {
+      "rate": 93.89,
+      "updated_at": "2026-11-02T11:29:41.678154+00:00",
+      "source": "CoinGecko"
+    }
+  },
+  "last_refresh": "2026-11-02T16:56:53.860421"
+}

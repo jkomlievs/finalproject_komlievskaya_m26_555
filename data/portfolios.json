@@ -1,0 +1,116 @@
+[
+  {
+    "user_id": "user_1",
+    "wallets": {
+      "BTC": {
+        "currency_code": "BTC",
+        "balance": 0.1
+      }
+    }
+  },
+  {
+    "user_id": "user_2",
+    "wallets": {
+      "BTC": {
+        "currency_code": "BTC",
+        "balance": 0.2
+      }
+    }
+  },
+  {
+    "user_id": "user_3",
+    "wallets": {
+      "BTC": {
+        "currency_code": "BTC",
+        "balance": 0.0
+      },
+      "GBP": {
+        "currency_code": "GBP",
+        "balance": 50.0
+      }
+    }
+  },
+  {
+    "user_id": "user_4",
+    "wallets": {
+      "BTC": {
+        "currency_code": "BTC",
+        "balance": 0.1
+      },
+      "GBP": {
+        "currency_code": "GBP",
+        "balance": 50.0
+      }
+    }
+  },
+  {
+    "user_id": "user_5",
+    "wallets": {}
+  },
+  {
+    "user_id": "user_6",
+    "wallets": {}
+  },
+  {
+    "user_id": "user_7",
+    "wallets": {}
+  },
+  {
+    "user_id": "user_8",
+    "wallets": {}
+  },
+  {
+    "user_id": "user_9",
+    "wallets": {
+      "BTC": {
+        "currency_code": "BTC",
+        "balance": 0.1
+      }
+    }
+  },
+  {
+    "user_id": "user_10",
+    "wallets": {
+      "BTC": {
+        "currency_code": "BTC",
+        "balance": 0.0
+      }
+    }
+  },
+  {
+    "user_id": "user_11",
+    "wallets": {
+      "BTC": {
+        "currency_code": "BTC",
+        "balance": 0.0
+      }
+    }
+  },
+  {
+    "user_id": "user_12",
+    "wallets": {
+      "BTC": {
+        "currency_code": "BTC",
+        "balance": 0.0
+      }
+    }
+  },
+  {
+    "user_id": "user_13",
+    "wallets": {
+      "BTC": {
+        "currency_code": "BTC",
+        "balance": 0.1
+      }
+    }
+  },
+  {
+    "user_id": "user_14",
+    "wallets": {
+      "BTC": {
+        "currency_code": "BTC",
+        "balance": 0.0
+      }
+    }
+  }
+]

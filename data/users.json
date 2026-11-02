@@ -1,0 +1,23 @@
+[
+  {
+    "user_id": "user_1",
+    "username": "ivan",
+    "password_hash": "64896491c40179f4294bb4292d32e8debec710b47d0aaa979873984ba6276e0b",
+    "salt": "6ef6228b2aa713e9",
+    "created_at": "2026-10-31T01:22:18.175356"
+  },
+  {
+    "user_id": "user_8",
+    "username": "ivanna",
+    "password_hash": "66336d2dc0bad03387ca54926e67f1dcb5fd020efffac40f7c17d65d4babe9a0",
+    "salt": "542d6413955c1831",
+    "created_at": "2026-10-31T02:18:48.804045"
+  },
+  {
+    "user_id": "user_9",
+    "username": "maya1",
+    "password_hash": "2809f019e62171d602ab6227e56980db5265dfd2c6e3639576a6d64e46a356ab",
+    "salt": "4af8d28bd7b04f2d",
+    "created_at": "2026-11-02T11:52:23.045380"
+  }
+]
